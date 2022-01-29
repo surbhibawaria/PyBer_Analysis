@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Overview of the analysis 
-As a data analyst for PyBer, a Python based ride-sharing app company, my first assigment was to perform an exploratory analysis on data in some very large csv files. To create several types of visualization to tell a compelling story about data. To write Python scripts using Panda's libraries, the jupyter notebook, and matplotlib to create a variety of charts that showcase the relationship between the type of city, the number of drivers and riders. 
+As a data analyst for PyBer, a Python based ride-sharing app company, my first assigment was to perform an exploratory analysis on data in some very large csv files. Also, to create several types of visualization to tell a compelling story about data, and to write Python scripts using Panda's libraries, the jupyter notebook, and matplotlib to create a variety of charts that showcase the relationship between the type of city, the number of drivers and riders. 
 
 Later, V. Isualize, a co-founder of PyBer has given a brand-new assignment. To create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, to create a multiple-line graph that shows the total weekly fares for each city type.
 
