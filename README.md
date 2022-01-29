@@ -30,3 +30,9 @@ The above chart displays the weekly data of the fares for each city type from Ja
 
 
 ## Summary
+
+Three business recommendations to the CEO for addressing any disparities among the city types:
+
+- Rural cities have the lowest total drivers, the number of drivers in rural areas should be increased to meet the ride demands. Although, the rural cities have the lowest number of rides and the lowest number of fares, their average fare per ride is the highest among all the city types. So, increasing number of drivers in these cities will increase the company's revenue.
+- Urban city type is the best performing city type and should continue with the current track, as urban cities have the highest total fares and highest total rides which generates most of the company's revenue.
+- Suburban cities lies in between of the rural and urban cities. If not much, little bit of focus towards these cities will help increase the profitabiliy and company's revenue.
